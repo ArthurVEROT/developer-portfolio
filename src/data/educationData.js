@@ -1,23 +1,23 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Marble Hills Middle School',
-        course: 'Higher Secondary Education',
-        startYear: '2007',
-        endYear: '2015'
+        institution: 'Ironhack',
+        course: 'Web development Bootcamp',
+        startYear: 'May 2022 ',
+        endYear: ' July 2022'
     },
     {
         id: 2,
-        institution: 'Somerset School of Science',
-        course: 'Bachelor of Technology',
-        startYear: '2015',
-        endYear: '2019'
+        institution: 'Emlyon Business School',
+        course: 'Programme Grande Ecole - Master in Management',
+        startYear: 'September 2018 ',
+        endYear: ' June 2021'
     },
-    {
-        id: 3,
-        institution: 'Hawking University, Cambridge',
-        course: 'Master of Technology',
-        startYear: '2019',
-        endYear: 'Present'
-    },
+    // {
+    //     id: 3,
+    //     institution: 'Hawking University, Cambridge',
+    //     course: 'Master of Technology',
+    //     startYear: '2019',
+    //     endYear: 'Present'
+    // },
 ]

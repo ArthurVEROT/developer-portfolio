@@ -74,7 +74,7 @@ function Landing() {
                     className='landing--container-left'
                     style={{ backgroundColor: theme.primary }}
                 >
-                    <div className='lcl--content'>
+                    {/* <div className='lcl--content'>
                         {socialsData.linkedIn && (
                             <a
                                 href={socialsData.linkedIn}
@@ -140,7 +140,7 @@ function Landing() {
                                 />
                             </a>
                         )}
-                    </div>
+                    </div> */}
                 </div>
                 <img
                     src={headerData.image}
@@ -177,7 +177,7 @@ function Landing() {
                                 </a>
                             )}
                             <NavLink
-                                to='/#contacts'
+                                to='/#footer'
                                 smooth={true}
                                 spy='true'
                                 duration={2000}
