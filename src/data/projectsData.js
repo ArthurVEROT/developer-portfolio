@@ -18,7 +18,7 @@ export const projectsData = [
         projectDesc: 'Reproduction of the famous game Space Invaders in JavaScript, HTLM (Canvas), and CSS.',
         tags: ['JavaScript', 'HTML', 'CSS'],
         code: 'https://github.com/ArthurVEROT/SpaceInvaders-Galaga-Project1',
-        demo: 'https://arthurverot.com/SpaceInvaders-Galaga-Project1/',
+        demo: 'https://arthurverot.github.io/SpaceInvaders-Galaga-Project1/',
         image: spaceInvader
     },
     {
